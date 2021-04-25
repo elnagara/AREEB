@@ -24,11 +24,9 @@ where n1 and n2 are the total number of testing files in the complete and minima
 
 The minimal set is satisfactory to evaluate a given Arabic word embedding.
 
-The following figure depicts the reviews distribution in HARD Datasets; balanced (inner) and unbalanced (outer).
+The following figure depicts the files in AREEB; Complete set (inner) and Minimal set (outer).
+![image](https://user-images.githubusercontent.com/12669834/116007407-b7569080-a620-11eb-92f6-1f391f382646.png)
 
-https://user-images.githubusercontent.com/12669834/116007324-4ca55500-a620-11eb-8be7-df3b8d9ffc90.png)
-
-You may refer to our paper, cited below, for details on the dataset.
 
 ## Dataset
 
