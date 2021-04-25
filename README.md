@@ -26,7 +26,7 @@ The minimal set is satisfactory to evaluate a given Arabic word embedding.
 
 The following figure depicts the reviews distribution in HARD Datasets; balanced (inner) and unbalanced (outer).
 
-!https://user-images.githubusercontent.com/12669834/116007324-4ca55500-a620-11eb-8be7-df3b8d9ffc90.png)
+https://user-images.githubusercontent.com/12669834/116007324-4ca55500-a620-11eb-8be7-df3b8d9ffc90.png)
 
 You may refer to our paper, cited below, for details on the dataset.
 
