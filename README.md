@@ -17,15 +17,15 @@ The benchmark consists of:
 | Indicator         | n1 	| n2  |
 |------------------	|---- |----	|
 | Morphosyntax      | 28 	|  6  |
-| Morphosemantics   | 11 	|  7	|
+| Morphosemantics   | 11 	|  5	|
 | Semantics       	| 5   |  5	|
 
 where n1 and n2 are the total number of testing files in the complete and minimal datasets, respectively.
 
 The minimal set is satisfactory to evaluate a given Arabic word embedding.
 
-The following figure depicts the files in AREEB; Complete set (inner) and Minimal set (outer).
-![image](https://user-images.githubusercontent.com/12669834/116007407-b7569080-a620-11eb-92f6-1f391f382646.png)
+The following figure depicts the files in AREEB; Complete set (outer) and Minimal set (inner).
+
 
 
 ## Dataset
