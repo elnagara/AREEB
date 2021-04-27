@@ -22,12 +22,6 @@ The benchmark consists of:
 
 where n1 and n2 are the total number of testing files in the complete and minimal datasets, respectively.
 
-The minimal set is satisfactory to evaluate a given Arabic word embedding.
-
-The following figure depicts the files in AREEB; Complete set (outer) and Minimal set (inner).
-
-
-
 ## Dataset
 
 - data/
